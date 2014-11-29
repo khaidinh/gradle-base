@@ -15,4 +15,3 @@ Default settings include:
 * Test dependencies:
     * Latest junit
     * Latest spock-core
-
